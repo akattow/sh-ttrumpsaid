@@ -18,6 +18,7 @@ html, body {
   -webkit-flex-flow: row wrap;
   justify-content: space-around;
   width: 100%;
+  padding-top: 7vh;
 }
 
 .box1 {
@@ -26,7 +27,6 @@ html, body {
 }
 
 .box1 img {
-  margin-top: 40%;
   max-width: 100%;
   max-height: 100%;
 }
@@ -42,7 +42,6 @@ html, body {
   font-size: 4em;
   margin: 0;
   margin-left: 2%;
-  padding-top: 10%;
 }
 
 .quotebox {
@@ -62,7 +61,7 @@ html, body {
 
 .quotebox h3 {
   font-family: Amatic;
-  font-size: 3em;
+  font-size: 2.5em;
   margin: 0;
 }
 
@@ -88,7 +87,7 @@ footer {
   font-family: Raleway;
   font-size: .9em;
   text-align: center;
-  margin: 5% 0;
+  margin: 7vh 0;
 }
 
 footer a {
